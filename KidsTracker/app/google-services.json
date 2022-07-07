@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "552905809837",
+    "firebase_url": "https://esp8266-72053-default-rtdb.firebaseio.com",
+    "project_id": "esp8266-72053",
+    "storage_bucket": "esp8266-72053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552905809837:android:7b2a35320b824ecb578b24",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552905809837-ti13le8k7c4rqem1ui3pvncq8qpe7167.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBECONrb0qYRY8uDji4HA2WR-0cuIj_VwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552905809837-ti13le8k7c4rqem1ui3pvncq8qpe7167.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552905809837:android:1be952c821174ee4578b24",
+        "android_client_info": {
+          "package_name": "com.pbl.kidstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552905809837-ti13le8k7c4rqem1ui3pvncq8qpe7167.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBECONrb0qYRY8uDji4HA2WR-0cuIj_VwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552905809837-ti13le8k7c4rqem1ui3pvncq8qpe7167.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552905809837:android:e339721ed88ccc3d578b24",
+        "android_client_info": {
+          "package_name": "com.pbl.kidstracker.viewmodel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552905809837-ti13le8k7c4rqem1ui3pvncq8qpe7167.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBECONrb0qYRY8uDji4HA2WR-0cuIj_VwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552905809837-ti13le8k7c4rqem1ui3pvncq8qpe7167.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552905809837:android:4fb6d6325483f834578b24",
+        "android_client_info": {
+          "package_name": "com.pbl.pbl5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552905809837-ti13le8k7c4rqem1ui3pvncq8qpe7167.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBECONrb0qYRY8uDji4HA2WR-0cuIj_VwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552905809837-ti13le8k7c4rqem1ui3pvncq8qpe7167.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
